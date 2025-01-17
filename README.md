@@ -1,1 +1,1 @@
-# holbertonschool-system_engineering-devops
+Simple web stack
